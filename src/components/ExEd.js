@@ -10,22 +10,22 @@ const Body = () => {
             <h1 className="font-normal text-4xl md:text-7xl leading-none mb-8 text-white">
               Experience
             </h1>
-            <ol class="relative border-s border-gray-200 dark:border-gray-700">
-              <li class="mb-10 ms-6">
-                <span class="absolute flex items-center justify-center w-6 h-6 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900">
-                  <BriefcaseBusiness class="text-white" />
+            <ol className="relative border-s border-gray-200 dark:border-gray-700">
+              <li className="mb-10 ms-6">
+                <span className="absolute flex items-center justify-center w-6 h-6 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900">
+                  <BriefcaseBusiness className="text-white" />
                 </span>
 
-                <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+                <h3 className="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">
                   Junior QA Tester{" "}
-                  <span class="bg-blue-100 text-blue-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-blue-900 dark:text-blue-300 ms-3">
+                  <span className="bg-blue-100 text-blue-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-blue-900 dark:text-blue-300 ms-3">
                     Current
                   </span>
                 </h3>
-                <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-100">
+                <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-100">
                   Tech Solutions Inc. - Jan 2020 to Present
                 </time>
-                <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+                <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
                   <ul className="list-disc list-inside ml-4">
                     <li>
                       Led the QA team in developing and executing comprehensive
@@ -46,17 +46,17 @@ const Body = () => {
                   </ul>
                 </p>
               </li>
-              <li class="mb-10 ms-6">
-                <span class="absolute flex items-center justify-center w-6 h-6 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900">
-                  <BriefcaseBusiness class="text-white" />
+              <li className="mb-10 ms-6">
+                <span className="absolute flex items-center justify-center w-6 h-6 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900">
+                  <BriefcaseBusiness className="text-white" />
                 </span>
-                <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+                <h3 className="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
                   QA Tester
                 </h3>
-                <time class="block mb-2 text-sm font-normal leading-none text-gray-100 dark:text-gray-100">
+                <time className="block mb-2 text-sm font-normal leading-none text-gray-100 dark:text-gray-100">
                   Creative Agency - Jun 2017 to Dec 2019
                 </time>
-                <p class="text-base font-normal text-gray-500 dark:text-gray-400">
+                <p className="text-base font-normal text-gray-500 dark:text-gray-400">
                   <ul className="list-disc list-inside ml-4">
                     <li>
                       Performed functional, regression, and user acceptance
@@ -77,17 +77,17 @@ const Body = () => {
                   </ul>
                 </p>
               </li>
-              <li class="mb-10 ms-6">
-                <span class="absolute flex items-center justify-center w-6 h-6 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900">
-                  <BriefcaseBusiness class="text-white" />
+              <li className="mb-10 ms-6">
+                <span className="absolute flex items-center justify-center w-6 h-6 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900">
+                  <BriefcaseBusiness className="text-white" />
                 </span>
-                <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+                <h3 className="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
                   QA Intern
                 </h3>
-                <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-100">
+                <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-100">
                   Startup Hub - Jan 2016 to May 2017
                 </time>
-                <p class="text-base font-normal text-gray-500 dark:text-gray-400">
+                <p className="text-base font-normal text-gray-500 dark:text-gray-400">
                   <ul className="list-disc list-inside ml-4">
                     <li>
                       Assisted in the creation and execution of test plans and
@@ -117,21 +117,21 @@ const Body = () => {
             <h1 className="font-normal text-4xl md:text-7xl leading-none mb-8 text-white">
               Education
             </h1>
-            <ol class="relative border-s border-gray-200 dark:border-gray-700">
-              <li class="mb-10 ms-6">
-                <span class="absolute flex items-center justify-center w-6 h-6 bg-green-100 rounded-full -start-3 ring-8 ring-green-400 ">
+            <ol className="relative border-s border-gray-200 dark:border-gray-700">
+              <li className="mb-10 ms-6">
+                <span className="absolute flex items-center justify-center w-6 h-6 bg-green-100 rounded-full -start-3 ring-8 ring-green-400 ">
                   <GraduationCap />
                 </span>
-                <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+                <h3 className="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">
                   Bachelor of Science in Computer Science{" "}
-                  <span class="bg-green-100 text-green-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-green-900 dark:text-green-300 ms-3">
+                  <span className="bg-green-100 text-green-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-green-900 dark:text-green-300 ms-3">
                     Graduated
                   </span>
                 </h3>
-                <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+                <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
                   University of Technology - Sept 2015 to Jun 2019
                 </time>
-                <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+                <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
                   <ul className="list-disc list-inside ml-4">
                     <li>Graduated with Honors, GPA: 3.8/4.0</li>
                     <li>
@@ -151,20 +151,20 @@ const Body = () => {
                   </ul>
                 </p>
               </li>
-              <li class="mb-10 ms-6">
-              <span class="absolute flex items-center justify-center w-6 h-6 bg-green-100 rounded-full -start-3 ring-8 ring-green-400 ">
+              <li className="mb-10 ms-6">
+              <span className="absolute flex items-center justify-center w-6 h-6 bg-green-100 rounded-full -start-3 ring-8 ring-green-400 ">
                   <GraduationCap />
                 </span>
-                <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+                <h3 className="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
                 Certification in QA Testing
-                <span class="bg-green-100 text-green-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-green-900 dark:text-green-300 ms-3">
+                <span className="bg-green-100 text-green-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-green-900 dark:text-green-300 ms-3">
                     Graduated
                   </span>
                 </h3>
-                <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+                <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
                 QA Testing Institute - Mar 2020 to Aug 2020
                 </time>
-                <p class="text-base font-normal text-gray-500 dark:text-gray-400">
+                <p className="text-base font-normal text-gray-500 dark:text-gray-400">
                 <ul className="list-disc list-inside ml-4">
               <li>
                 Completed intensive program focusing on manual and automated
