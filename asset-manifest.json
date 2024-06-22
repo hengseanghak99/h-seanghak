@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/h-seanghak/*/static/css/main.c98121fe.css",
-    "main.js": "/h-seanghak/*/static/js/main.ecb9347e.js",
-    "static/js/453.ed3810f9.chunk.js": "/h-seanghak/*/static/js/453.ed3810f9.chunk.js",
-    "static/media/vanda_profile.jpeg": "/h-seanghak/*/static/media/vanda_profile.73f6180e8b49592993b2.jpeg",
-    "static/media/github.png": "/h-seanghak/*/static/media/github.bf54ff34a55aa7d2b7a1.png",
-    "static/media/javascript.png": "/h-seanghak/*/static/media/javascript.762e58011f0634bd4ef4.png",
-    "static/media/tailwind.png": "/h-seanghak/*/static/media/tailwind.2a35c54c13e9c1f714b5.png",
-    "static/media/react_logo.png": "/h-seanghak/*/static/media/react_logo.3b5049ea7908e9da3ba0.png",
-    "static/media/html5.png": "/h-seanghak/*/static/media/html5.5139eb66b02855a1c137.png",
-    "static/media/css.png": "/h-seanghak/*/static/media/css.495a79bfbc4ced7c7c0e.png",
-    "index.html": "/h-seanghak/*/index.html",
-    "main.c98121fe.css.map": "/h-seanghak/*/static/css/main.c98121fe.css.map",
-    "main.ecb9347e.js.map": "/h-seanghak/*/static/js/main.ecb9347e.js.map",
-    "453.ed3810f9.chunk.js.map": "/h-seanghak/*/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/h-seanghak/static/css/main.c98121fe.css",
+    "main.js": "/h-seanghak/static/js/main.5b448c09.js",
+    "static/js/453.ed3810f9.chunk.js": "/h-seanghak/static/js/453.ed3810f9.chunk.js",
+    "static/media/vanda_profile.jpeg": "/h-seanghak/static/media/vanda_profile.73f6180e8b49592993b2.jpeg",
+    "static/media/github.png": "/h-seanghak/static/media/github.bf54ff34a55aa7d2b7a1.png",
+    "static/media/javascript.png": "/h-seanghak/static/media/javascript.762e58011f0634bd4ef4.png",
+    "static/media/tailwind.png": "/h-seanghak/static/media/tailwind.2a35c54c13e9c1f714b5.png",
+    "static/media/react_logo.png": "/h-seanghak/static/media/react_logo.3b5049ea7908e9da3ba0.png",
+    "static/media/html5.png": "/h-seanghak/static/media/html5.5139eb66b02855a1c137.png",
+    "static/media/css.png": "/h-seanghak/static/media/css.495a79bfbc4ced7c7c0e.png",
+    "index.html": "/h-seanghak/index.html",
+    "main.c98121fe.css.map": "/h-seanghak/static/css/main.c98121fe.css.map",
+    "main.5b448c09.js.map": "/h-seanghak/static/js/main.5b448c09.js.map",
+    "453.ed3810f9.chunk.js.map": "/h-seanghak/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c98121fe.css",
-    "static/js/main.ecb9347e.js"
+    "static/js/main.5b448c09.js"
   ]
 }
