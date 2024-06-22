@@ -15,7 +15,7 @@ const App = () => {
         <Route path="/contact-me" element={<EmailMe />} />
         <Route path="/exed" element={<ExEdPage />} />
         <Route path="/blogs" element={<Blogs />} />
-        <Route path="/*" element={<NotFound/>} />
+        <Route path="*" element={<NotFound/>} />
       </Routes>
     </Router>
   );
