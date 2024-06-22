@@ -29,7 +29,7 @@ const Footer = () => {
             <ul className="flex space-x-4">
               <li>
                 <a href="https://github.com/hengseanghak99" className="hover:text-gray-400">
-                  <span class="[&>svg]:h-5 [&>svg]:w-5">
+                  <span className="[&>svg]:h-5 [&>svg]:w-5">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       fill="currentColor"
@@ -42,7 +42,7 @@ const Footer = () => {
               </li>
               <li>
                 <a href="https://www.facebook.com/profile.php?id=100022748828006" className="hover:text-gray-400">
-                  <span class="[&>svg]:h-5 [&>svg]:w-5">
+                  <span className="[&>svg]:h-5 [&>svg]:w-5">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       fill="currentColor"
@@ -55,7 +55,7 @@ const Footer = () => {
               </li>
               <li>
                 <a href="hengseanghak10499@gmail.com" className="hover:text-gray-400">
-                  <span class="[&>svg]:h-5 [&>svg]:w-5">
+                  <span className="[&>svg]:h-5 [&>svg]:w-5">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       fill="currentColor"
@@ -68,7 +68,7 @@ const Footer = () => {
               </li>
               <li>
                 <a href="https://www.linkedin.com/in/seanghak-heng-34a522204/" className="hover:text-gray-400">
-                  <span class="[&>svg]:h-5 [&>svg]:w-5">
+                  <span className="[&>svg]:h-5 [&>svg]:w-5">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       fill="currentColor"
@@ -83,10 +83,10 @@ const Footer = () => {
           </div>
         </div>
         <div
-    class=" p-4 text-center text-neutral-700 dark:bg-neutral-700 dark:text-neutral-200">
+    className=" p-4 text-center text-neutral-700 dark:bg-neutral-700 dark:text-neutral-200">
     © 2023 Copyright:
     <a
-      class="text-neutral-800 dark:text-neutral-400"
+      className="text-neutral-800 dark:text-neutral-400"
       href="https://tw-elements.com/"
       >HENG SEANGHAK</a
     >
